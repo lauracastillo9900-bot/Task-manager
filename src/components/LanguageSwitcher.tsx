@@ -33,6 +33,7 @@ export default function LanguageSwitcher() {
                     : 'text-gray-700 dark:text-gray-300'
                 }`}
               >
+                
                 <span>{localeNames[loc]}</span>
                 {locale === loc && (
                   <svg className="w-4 h-4 text-gray-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
