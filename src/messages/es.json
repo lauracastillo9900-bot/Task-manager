@@ -1,0 +1,51 @@
+{
+  "common": {
+    "back": "Volver",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "create": "Crear",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "close": "Cerrar",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "newTask": "Nueva Tarea",
+    "editTask": "Editar Tarea",
+    "previous": "Anterior",
+    "next": "Siguiente"
+  },
+  "calendar": {
+    "today": "Hoy",
+    "month": "Mes",
+    "week": "Semana",
+    "day": "Día",
+    "noTasks": "Sin tareas",
+    "tasks": "tareas",
+    "addTask": "Agregar Tarea"
+  },
+  "task": {
+    "title": "Título",
+    "titlePlaceholder": "¿Qué necesitas hacer?",
+    "description": "Descripción",
+    "descriptionPlaceholder": "Agregar detalles (opcional)",
+    "date": "Fecha",
+    "startTime": "Hora de inicio",
+    "endTime": "Hora de fin",
+    "priority": "Prioridad",
+    "low": "Baja",
+    "medium": "Media",
+    "high": "Alta",
+    "color": "Color",
+    "required": "Este campo es requerido"
+  },
+  "hobby": {
+    "sunday": "Dom",
+    "monday": "Lun",
+    "tuesday": "Mar",
+    "wednesday": "Mié",
+    "thursday": "Jue",
+    "friday": "Vie",
+    "saturday": "Sáb"
+  }
+}
