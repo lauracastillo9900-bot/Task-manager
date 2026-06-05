@@ -1,0 +1,51 @@
+{
+  "common": {
+    "back": "Back",
+    "cancel": "Cancel",
+    "save": "Save",
+    "create": "Create",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "newTask": "New Task",
+    "editTask": "Edit Task",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "calendar": {
+    "today": "Today",
+    "month": "Month",
+    "week": "Week",
+    "day": "Day",
+    "noTasks": "No tasks",
+    "tasks": "tasks",
+    "addTask": "Add Task"
+  },
+  "task": {
+    "title": "Title",
+    "titlePlaceholder": "What needs to be done?",
+    "description": "Description",
+    "descriptionPlaceholder": "Add details (optional)",
+    "date": "Date",
+    "startTime": "Start Time",
+    "endTime": "End Time",
+    "priority": "Priority",
+    "low": "Low",
+    "medium": "Medium",
+    "high": "High",
+    "color": "Color",
+    "required": "This field is required"
+  },
+  "hobby": {
+    "sunday": "Sun",
+    "monday": "Mon",
+    "tuesday": "Tue",
+    "wednesday": "Wed",
+    "thursday": "Thu",
+    "friday": "Fri",
+    "saturday": "Sat"
+  }
+}
